@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          This is the super spinny app of the land!
         </p>
         <a
           className="App-link"
@@ -18,6 +18,14 @@ function App() {
           Learn React
         </a>
       </header>
+      <body className="App-body">
+        This is the body of the page.
+      </body>
+      <footer>
+      <p>
+          Yippee!!
+        </p>
+      </footer>
     </div>
   );
 }
